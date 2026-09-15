@@ -66,6 +66,4 @@ Both were trained/tested on the same Adidas split (Test & Score widget), then th
 
 ## References
 
-- Kaggle: Nike US Sales Dataset (2020–2021)
-- Kaggle: Adidas US Sales Dataset (2020–2021)
 - [Orange Data Mining Toolkit](https://orangedatamining.com)
